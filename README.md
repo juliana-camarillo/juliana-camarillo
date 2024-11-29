@@ -1,4 +1,12 @@
-## Hi there 👋
+# 🌼 [@JulianaCamarillo](https://www.linkedin.com/in/juliana-marina-camarillo-grijalva-44b009335/)
+
+
+<li><b> 👤 NAME: </b> Juliana Marina Camarillo Grijalva </li>
+<li><b> 🌼 PRONOUNS: </b> She/Her </li>
+<li><b> 📣 LANGUAGES: </b> Spanish, English & Chinese </li>
+
+
+## ¡Hola! | Hi! | 你好！ 👋 Bienvenidx a mi perfil.
 
 <!--
 **juliana-camarillo/juliana-camarillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
